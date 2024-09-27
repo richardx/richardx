@@ -1,11 +1,3 @@
-<style>
-  @media (prefers-color-scheme: dark) {
-    h1, h3, h3 a {
-      color: #ffffff;
-    }
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Mads Richard</h1>
 <h3 align="center">A passionate developer from Denmark</h3>
 
