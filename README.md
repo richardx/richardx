@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mads Richard</h1>
+![Header](https://raw.githubusercontent.com/richardx/richardx/refs/heads/main/github-header-image.png)
 <h3 align="center">A passionate developer from Denmark</h3>
 
 <p align="left"> 
