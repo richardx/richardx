@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/richardx/richardx/refs/heads/main/github-header-image(1).png)
+![Header](https://raw.githubusercontent.com/richardx/richardx/refs/heads/main/github-header-image-(1).png)
 <h3 align="center">A passionate developer from Denmark</h3>
 
 <p align="left"> 
