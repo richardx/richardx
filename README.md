@@ -7,8 +7,6 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Something interesting**
-
 - 🌱 I’m currently learning **VUE.JS and Quasar**
 
 - 📫 How to reach me **Richardx10@gmail.com**
